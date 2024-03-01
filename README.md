@@ -24,4 +24,4 @@ following the data science process.
 I share the findings of this project in a post available here.
 
 # Licensing, Authors and Acknowledgements
-Credit to Nidula Elgiriyewithana for the dataset, available on Kaggle here.
+Credit to Nidula Elgiriyewithana for the dataset, available on Kaggle [here](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023)
