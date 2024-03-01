@@ -21,7 +21,7 @@ The code for this project is in a single Jupyter notebook. The dataset is also p
 following the data science process.
 
 ## Results
-I share the findings of this project in a post available here.
+I share the findings of this project in a post available [here](https://medium.com/@kofiyeb97/how-did-your-faves-fare-in-2023-c73786e6aa76).
 
 # Licensing, Authors and Acknowledgements
 Credit to Nidula Elgiriyewithana for the dataset, available on Kaggle [here](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023)
